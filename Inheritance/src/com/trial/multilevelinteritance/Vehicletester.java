@@ -12,6 +12,7 @@ public class Vehicletester {
 		bike.bikewheels();
 		bike.price();
 		bike.bikeprice();
+		
 	System.out.println("--------------------------------");
 	System.out.println("--------------------------------");
 	
@@ -24,8 +25,9 @@ public class Vehicletester {
 		car.carwheels();
 		car.price();
 		car.carprice();
-	System.out.println("--------------------------------");	
-	System.out.println("--------------------------------");
+
+		System.out.println("--------------------------------");	
+		System.out.println("--------------------------------");
 	
 		Bus bus=new Bus();
 		System.out.println("            BUS              ");
