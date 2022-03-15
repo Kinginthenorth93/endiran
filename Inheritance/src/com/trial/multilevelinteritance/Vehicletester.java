@@ -12,7 +12,7 @@ public class Vehicletester {
 		bike.bikewheels();
 		bike.price();
 		bike.bikeprice();
-		
+		System.out.print("\n");
 	System.out.println("--------------------------------");
 	System.out.println("--------------------------------");
 	
@@ -25,7 +25,7 @@ public class Vehicletester {
 		car.carwheels();
 		car.price();
 		car.carprice();
-
+		System.out.println("\n");
 		System.out.println("--------------------------------");	
 		System.out.println("--------------------------------");
 	

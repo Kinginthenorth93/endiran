@@ -13,6 +13,11 @@ public class New {
 		System.out.println(raa.equals(ra));
 		System.out.println(ra.hashCode());
 		System.out.println(raa.endsWith(raa));
+		
+		
+		
+		
+		
 	
 		
 	}
