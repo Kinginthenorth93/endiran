@@ -7,6 +7,9 @@ public interface CandidatesDAO {
 	
 	public void readalldata();
 	
+	public void readsingledata();
+	
+	
 	
 	
 
